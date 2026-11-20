@@ -1,5 +1,9 @@
 ## ¡Hola! 👋 Soy Álvaro
 
+<p align="left">
+  <img src="foto-perfil-circular.png" width="160" height="160" alt="Álvaro Alemañ Costa" />
+</p>
+
 <a href="https://alemancostaa-cmd.github.io" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio Álvaro Alemañ Costa" />
 </a>
