@@ -1,7 +1,7 @@
 ## ¡Hola! 👋 Soy Álvaro
 
 <p align="left">
-  <img src="foto-perfil-circular.png" width="160" height="160" alt="Álvaro Alemañ Costa" />
+  <img src="Foto_Alvaro_Aleman_Costa.png" width="160" alt="Álvaro Alemañ Costa" />
 </p>
 
 <a href="https://alemancostaa-cmd.github.io" target="_blank">
